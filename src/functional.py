@@ -1,4 +1,4 @@
-import nipype.interfaces.io as nio           # Data i/o 
+import nipype.interfaces.io as no           # Data i/o 
 import nipype.interfaces.spm as spm          # spm
 import nipype.interfaces.freesurfer as fs    # freesurfer
 import nipype.pipeline.node_wrapper as nw    # nodes for pypelines
